@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProducerEventWebJob", "ProducerEventWebJob\ProducerEventWebJob.csproj", "{EB37C228-E988-48DF-84FA-DDA649EC50CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB37C228-E988-48DF-84FA-DDA649EC50CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB37C228-E988-48DF-84FA-DDA649EC50CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB37C228-E988-48DF-84FA-DDA649EC50CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB37C228-E988-48DF-84FA-DDA649EC50CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61254082-BF4F-46EE-9C41-6AE19652340E}
+	EndGlobalSection
+EndGlobal
